@@ -1,0 +1,7 @@
+D:\C-ről másolt\c#\runCheck\runCheck\bin\Debug\runCheck.exe.config
+D:\C-ről másolt\c#\runCheck\runCheck\bin\Debug\runCheck.exe
+D:\C-ről másolt\c#\runCheck\runCheck\bin\Debug\runCheck.pdb
+D:\C-ről másolt\c#\runCheck\runCheck\obj\Debug\runCheck.csprojAssemblyReference.cache
+D:\C-ről másolt\c#\runCheck\runCheck\obj\Debug\runCheck.csproj.CoreCompileInputs.cache
+D:\C-ről másolt\c#\runCheck\runCheck\obj\Debug\runCheck.exe
+D:\C-ről másolt\c#\runCheck\runCheck\obj\Debug\runCheck.pdb
